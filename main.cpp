@@ -12,13 +12,11 @@ bool isPowerOfTwoShift(int n) {
 }
 
 int main() {
-    int n = 4;
+    int n = 5;
 
     cout << isPowerOfTwoShift(n);
 
-    
 
-   
     return 0;
 }
 
